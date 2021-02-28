@@ -8,7 +8,7 @@ The next major version of Sinatra will be released from the master branch.
 
 ### Stable release
 
-The current stable version of Sinatra is released from the stable branch.
+The current stable version of Sinatra will be released from the master branch and tagged with the release number.
 
 ## Issues
 
